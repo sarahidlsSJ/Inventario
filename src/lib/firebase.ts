@@ -3,12 +3,12 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCPcUzPNU-ZB1uo-1Is0IZY1oW5bpUIVCk",
-  authDomain: "inventario-5e1bf.firebaseapp.com",
-  projectId: "inventario-5e1bf",
-  storageBucket: "inventario-5e1bf.firebasestorage.app",
-  messagingSenderId: "562580961195",
-  appId: "1:562580961195:web:c3d53652b04c92873dc4ee"
+  apiKey: "AIzaSyB7nhbbQ6Aiwu-FPAtIznnyu6EXFpuQkrY",
+  authDomain: "inventario-sj.firebaseapp.com",
+  projectId: "inventario-sj",
+  storageBucket: "inventario-sj.firebasestorage.app",
+  messagingSenderId: "875641384916",
+  appId: "1:875641384916:web:01195c2225cdbc63f4b041"
 };
 
 const app =
