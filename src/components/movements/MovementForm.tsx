@@ -119,7 +119,7 @@ export default function MovementForm({
 
           <Select
             value={selectedProductId}
-            onValueChange={(value) => setSelectedProductId(value)}
+            onValueChange={(value) => setSelectedProductId(value ?? "")}
             disabled={!!product}
           >
             <SelectTrigger>
